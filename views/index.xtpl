@@ -1,0 +1,523 @@
+<!DOCTYPE html>
+<html lang="ZH">
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+    <title>办会家官网</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="author" content="办会家 Eventist.cn">
+    <meta name="description" content="办会家，专注为会议主办方做最好用的管理系统.">
+    <link rel="icon" href="images/favicon.ico">
+    <link rel="stylesheet" href="resources/bootstrap.css">
+    <link rel="stylesheet" href="resources/font-awesome.css">
+    <link rel="stylesheet" href="resources/owl.css">
+    <link rel="stylesheet" href="resources/owl_002.css">
+    <link rel="stylesheet" href="resources/public-v1.css">
+    <link rel="stylesheet" href="resources/official.css">
+</head>
+
+<body>
+    <div>
+        <img class="img-responsive" src="resources/slider_2_2.jpg" alt="">
+    </div>
+
+    <nav id="navbar-transparent" class="hidden-xs navbar navbar-transparent navbar-fixed-top">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="/">
+                    <img class="navbar-brand-logo-img" src="resources/logo.png" alt="">
+                </a>
+            </div>
+
+            <div class="collapse navbar-collapse">
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="/#a-mission">使命</a></li>
+                    <li><a href="/#a-scene">场景</a></li>
+                    <li><a href="/#a-product">产品</a></li>
+                    <li><a href="/#a-advantage">优势</a></li>
+                    <li><a href="/#a-case">合作品牌</a></li>
+                    <li><a href="/#a-contact">联系我们</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <nav id="navbar-white" class="hidden-xs navbar navbar-white navbar-fixed-top" style="display: none">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="/">
+                    <img class="navbar-brand-logo-img" src="resources/logo-blue.png" alt="">
+                </a>
+            </div>
+
+            <div class="collapse navbar-collapse">
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="/#a-mission">使命</a></li>
+                    <li><a href="/#a-scene">场景</a></li>
+                    <li><a href="/#a-product">产品</a></li>
+                    <li><a href="/#a-advantage">优势</a></li>
+                    <li><a href="/#a-case">合作品牌</a></li>
+                    <li><a href="/#a-contact">联系我们</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <a href="javascript:void(0)" name="a-mission"></a>
+    <div id="mission" class="row section-item about-us p-b-0">
+        <div class="col-sm-10 col-sm-offset-1">
+            <div class="item-hd text-center">
+                <p class="title-1 m-b-30 text-blue">
+                    <span class="border_b_blue">使命</span>
+                </p>
+            </div>
+
+            <div class="item-bd p-t-30 p-b-30" style="background: #f9f9f9;">
+                <p class="text-center title-2">办会家努力将技术融入会议场景，让会议更有价值。</p>
+            </div>
+        </div>
+    </div>
+
+    <a href="javascript:void(0)" name="a-scene"></a>
+    <div id="scene" class="row section-item scene p-b-0">
+        <div class="col-sm-10 col-sm-offset-1">
+            <div class="item-hd row text-center m-lr-0">
+                <p class="title-1 m-b-30 text-blue">
+                    <span class="border_b_blue">常用场景</span>
+                </p>
+            </div>
+
+            <div class="item-bd scene-item">
+                <div class="row m-lr-0 item-tabs text-center">
+                    <a class="btn btn-default-blue m-b-10" href="/#0"><span class="fa fa-tv text-blue"></span>&nbsp;大会官网</a>
+                    <a class="btn btn-default-blue m-b-10" href="/#1"><span class="fa fa-database text-blue"></span>&nbsp;数据收集</a>
+                    <a class="btn btn-default-blue m-b-10" href="/#2"><span class="fa fa-ticket text-blue"></span>&nbsp;售票收款</a>
+                    <a class="btn btn-default-blue m-b-10" href="/#3"><span class="fa fa-check text-blue"></span>&nbsp;签到验证</a>
+                    <a class="btn btn-default-blue m-b-10" href="/#4"><span class="fa fa-gift text-blue"></span>&nbsp;3D 抽奖</a>
+                    <a class="btn btn-default-blue m-b-10" href="/#5"><span class="fa fa-mobile-phone text-blue"></span>&nbsp;3D 投票</a>
+                    <a class="btn btn-default-blue m-b-10" href="/#6"><span class="fa fa-check-square-o text-blue"></span>&nbsp;3D 签到</a>
+                    <a class="btn btn-default-blue m-b-10" href="/#7"><span class="fa fa-wechat text-blue"></span>&nbsp;大会微站</a>
+                </div>
+ <div class="row m-lr-0 item-tabs-body">
+
+                    <div id="scene-slider" class="owl-carousel owl-theme">
+                        <div class="item" data-hash="0">
+                            <p class="text-center item-tabs-body-item-header ">一站式搭建全平台大会官网</p>
+                            <img src="resources/scene_event_page.jpg" alt="">
+                        </div>
+                        <div class="item" data-hash="1">
+                            <p class="text-center item-tabs-body-item-header">多场景收集信息</p>
+                            <img src="resources/scene_register.jpg" alt="">
+                        </div>
+                        <div class="item" data-hash="2">
+                            <p class="text-center item-tabs-body-item-header">便捷的售票收款</p>
+                            <img src="resources/scene_sell_ticket.jpg" alt="">
+                        </div>
+                        <div class="item" data-hash="3">
+                            <p class="text-center item-tabs-body-item-header">一秒签到，验证身份</p>
+                            <img src="resources/scene_checkin.jpg" alt="">
+                        </div>
+                        <div class="item" data-hash="4">
+                            <p class="text-center item-tabs-body-item-header">姓名、微信 3D抽奖</p>
+                            <img src="resources/scene_award.jpg" alt="">
+                        </div>
+                        <div class="item" data-hash="5">
+                            <p class="text-center item-tabs-body-item-header">3D 投票</p>
+                            <img src="resources/scene_vote.jpg" alt="">
+                        </div>
+                        <div class="item" data-hash="6">
+                            <p class="text-center item-tabs-body-item-header">3D 签到</p>
+                            <img src="resources/scene_3Dcheckin.jpg" alt="">
+                        </div>
+                        <div class="item" data-hash="7">
+                            <p class="text-center item-tabs-body-item-header">大会微站，一站整合所有资料</p>
+                            <img src="resources/scene_weizhan.jpg" alt="">
+                        </div>
+                    </div>
+            </div>
+        </div>
+
+    </div>
+
+    <a href="javascript:void(0)" name="a-product"></a>
+    <div id="product" class="row section-item product p-b-0">
+        <div class="col-sm-8 col-sm-offset-2">
+            <div class="item-hd row text-center m-lr-0">
+                <p class="title-1 m-b-30 text-blue">
+                    <span class="border_b_blue">产品功能</span>
+                </p>
+            </div>
+            <div class="row item-bd m-lr-0">
+                <div class="row product-item m-b-15 p-b-15">
+                    <div class="col-sm-4 product-item-left text-center">
+                        <img src="resources/e_invite.png" alt="">
+                        <p class="hidden-xs product-item-left-title"><span class="">会邀约</span></p>
+                        <span class="hidden-sm hidden-md hidden-lg m-l-15 product-item-left-title ">会邀约</span>
+                    </div>
+                    <div class="col-sm-8 product-item-right">
+                        <div class="row">
+                            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 m-b-10">
+                                <label class="label label-primary">
+                                    <span class="fa fa-tv"></span>&nbsp;大会网站
+                                </label>
+                            </div>
+
+                            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 m-b-10">
+                                <label class="label label-primary">
+                                    <span class="fa fa-mobile-phone"></span>&nbsp;移动网站
+                                </label>
+                            </div>
+
+                            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 m-b-10">
+                                <label class="label label-primary">
+                                    <span class="fa fa-html5"></span>&nbsp;H5网站
+                                </label>
+                            </div>
+
+                            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 m-b-10">
+                                <label class="label label-primary">
+                                    <span class="fa fa-wechat"></span>&nbsp;微站
+                                </label>
+                            </div>
+
+                            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 m-b-10">
+                                <label class="label label-primary">
+                                    <span class="fa fa-apple"></span>&nbsp;会议APP
+                                </label>
+                            </div>
+
+                            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 m-b-10">
+                                <label class="label label-primary">
+                                    <span class="fa fa-wechat"></span>&nbsp;微信公号
+                                </label>
+                            </div>
+
+                            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 m-b-10">
+                                <label class="label label-primary">
+                                    <span class="fa fa-file-text"></span>&nbsp;微邀请函
+                                </label>
+                            </div>
+
+                            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 col-lg-3 m-b-10">
+                                <label class="label label-primary">
+                                    <span class="fa fa-commenting"></span>&nbsp;智能通知
+                                </label>
+                            </div>
+
+                            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 m-b-10">
+                                <label class="label label-primary">
+                                    <span class="fa fa-user-circle"></span>&nbsp;智能客服
+                                </label>
+                            </div>
+
+                            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 m-b-10">
+                                <label class="label label-primary">
+                                    <span class="fa fa-ticket"></span>&nbsp;售票管理
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row product-item m-b-15 p-b-15">
+                    <div class="col-sm-4 product-item-left text-center p-t-15">
+                        <img src="resources/e_checkin.png" alt="">
+                        <p class="hidden-xs product-item-left-title"><span class="">会签到</span></p>
+                        <span class="hidden-sm hidden-md hidden-lg m-l-15 product-item-left-title ">会签到</span>
+                    </div>
+                    <div class="col-sm-8 product-item-right">
+                        <div class="row">
+                            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 m-b-10">
+                                <label class="label label-primary">
+                                    <span class="fa fa-qrcode"></span>&nbsp;扫码签到
+                                </label>
+                            </div>
+
+                            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 m-b-10">
+                                <label class="label label-primary">
+                                    <span class="fa fa-wechat"></span>&nbsp;微信签到
+                                </label>
+                            </div>
+
+                            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 m-b-10">
+                                <label class="label label-primary">
+                                    <span class="fa fa-tablet"></span>&nbsp;App签到
+                                </label>
+                            </div>
+
+                            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 m-b-10">
+                                <label class="label label-primary">
+                                    <span class="fa fa-id-card"></span>&nbsp;身份证
+                                </label>
+                            </div>
+
+                            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 m-b-10">
+                                <label class="label label-primary">
+                                    <span class="fa fa-credit-card"></span>&nbsp;RFID
+                                </label>
+                            </div>
+
+                            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 m-b-10">
+                                <label class="label label-primary">
+                                    <span class="fa fa-bluetooth"></span>&nbsp;ibeacon
+                                </label>
+                            </div>
+
+                            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 m-b-10">
+                                <label class="label label-primary">
+                                    <span class="fa fa-road"></span>&nbsp;闸机签到
+                                </label>
+                            </div>
+
+                            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 m-b-10">
+                                <label class="label label-primary">
+                                    <span class="fa fa-male"></span>&nbsp;自助签到
+                                </label>
+                            </div>
+
+                            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 col-lg-3 m-b-10">
+                                <label class="label label-primary">
+                                    <span class="fa fa-id-card-o"></span>&nbsp;现场制证
+                                </label>
+                            </div>
+
+                            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 m-b-10">
+                                <label class="label label-primary">
+                                    <span class="fa fa-user-circle-o"></span>&nbsp;面部识别
+                                </label>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row product-item m-b-15 p-b-15">
+                    <div class="col-sm-4 product-item-left text-center">
+                        <img src="resources/e_interactive.png" alt="">
+                        <p class="hidden-xs product-item-left-title"><span class="">会互动</span></p>
+                        <span class="hidden-sm hidden-md hidden-lg m-l-15 product-item-left-title ">会互动</span>
+                    </div>
+                    <div class="col-sm-8 product-item-right">
+                        <div class="row">
+                            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 m-b-10">
+                                <label class="label label-primary">
+                                    <span class="fa fa-qrcode"></span>&nbsp;3D 签到
+                                </label>
+                            </div>
+
+                            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 m-b-10">
+                                <label class="label label-primary">
+                                    <span class="fa fa-gift"></span>&nbsp;3D 抽奖
+                                </label>
+                            </div>
+
+                            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 m-b-10">
+                                <label class="label label-primary">
+                                    <span class="fa fa-tablet"></span>&nbsp;3D 投票
+                                </label>
+                            </div>
+
+                            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 m-b-10">
+                                <label class="label label-primary">
+                                    <span class="fa fa-image"></span>&nbsp;3D 图文
+                                </label>
+                            </div>
+
+                            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 m-b-10">
+                                <label class="label label-primary">
+                                    <span class="fa fa-grav"></span>&nbsp;摇一摇
+                                </label>
+                            </div>
+
+                            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 m-b-10">
+                                <label class="label label-primary">
+                                    <span class="fa fa-yen"></span>&nbsp;打赏
+                                </label>
+                            </div>
+
+                            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 m-b-10">
+                                <label class="label label-primary">
+                                    <span class="fa fa-wechat"></span>&nbsp;现场红包
+                                </label>
+                            </div>
+
+                            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 col-lg-3 m-b-10">
+                                <label class="label label-primary">
+                                    <span class="fa fa-adjust"></span>&nbsp;3D 开幕
+                                </label>
+                            </div>
+
+                            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 m-b-10">
+                                <label class="label label-primary">
+                                    <span class="fa fa-pencil-square-o"></span>&nbsp;数字签约
+                                </label>
+                            </div>
+
+                            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 m-b-10">
+                                <label class="label label-primary">
+                                    <span class="fa fa-heartbeat"></span>&nbsp;慈善捐赠
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+
+
+    <a href="javascript:void(0)" name="a-advantage"></a>
+    <div id="advantage" class="row section-item advantage">
+        <div class="col-sm-10 col-sm-offset-1">
+            <div class="row m-lr-0 item-hd text-center">
+                <p class="title-1 m-b-30 text-blue">
+                    <span class="border_b_blue">优势</span>
+                </p>
+            </div>
+            <div class="row item-bd m-lr-0">
+
+                <div class="col-sm-4 item-bd-item m-b-30">
+                    <img class="item-bd-item-img" src="resources/e_easy.png" alt="">
+                    <p class="item-bd-item-title m-t-10">简单好用</p>
+                </div>
+
+                <div class="col-sm-4 item-bd-item m-b-30">
+                    <img class="item-bd-item-img" src="resources/e_service.png" alt="">
+                    <p class="item-bd-item-title m-t-10">贴心服务</p>
+                </div>
+
+                <div class="col-sm-4 item-bd-item">
+                    <img class="item-bd-item-img" src="resources/e_price.png" alt="">
+                    <p class="item-bd-item-title m-t-10">高性价比</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <a href="javascript:void(0)" name="a-case"></a>
+    <div id="case" class="row section-item case">
+        <div class="col-sm-10 col-sm-offset-1">
+            <div class="row m-lr-0 item-hd text-center">
+                <p class="title-1 m-b-30 text-blue">
+                    <span class="border_b_blue">合作品牌</span>
+                </p>
+            </div>
+            <div class="row item-bd m-lr-0">
+
+                <div class="col-xs-6 col-sm-3 item-bd-item m-b-15">
+                    <img class="case-item-img" src="resources/huawei.jpg" alt="">
+                </div>
+
+                <div class="col-xs-6 col-sm-3 item-bd-item m-b-15">
+                    <img class="case-item-img" src="resources/tcl.jpg" alt="">
+                </div>
+
+                <div class="col-xs-6 col-sm-3 item-bd-item m-b-15">
+                    <img class="case-item-img" src="resources/kupai.jpg" alt="">
+                </div>
+
+                <div class="col-xs-6 col-sm-3 item-bd-item m-b-15">
+                    <img class="case-item-img" src="resources/jky.jpg" alt="">
+                </div>
+
+                <div class="col-xs-6 col-sm-3 item-bd-item m-b-15">
+                    <img class="case-item-img" src="resources/payh.jpg" alt="">
+                </div>
+
+                <div class="col-xs-6 col-sm-3 item-bd-item m-b-15">
+                    <img class="case-item-img" src="resources/zsyh.jpg" alt="">
+                </div>
+
+                <div class="col-xs-6 col-sm-3 item-bd-item m-b-15">
+                    <img class="case-item-img" src="resources/sed.jpg" alt="">
+                </div>
+
+                <div class="col-xs-6 col-sm-3 item-bd-item m-b-15">
+                    <img class="case-item-img" src="resources/tz.jpg" alt="">
+                </div>
+
+                <div class="col-xs-6 col-sm-3 item-bd-item m-b-15">
+                    <img class="case-item-img" src="resources/yunyin.jpg" alt="">
+                </div>
+
+                <div class="col-xs-6 col-sm-3 item-bd-item m-b-15">
+                    <img class="case-item-img" src="resources/zo.jpg" alt="">
+                </div>
+
+                <div class="col-xs-6 col-sm-3 item-bd-item m-b-15">
+                    <img class="case-item-img" src="resources/wxb.jpg" alt="">
+                </div>
+
+                <div class="col-xs-6 col-sm-3 item-bd-item m-b-15">
+                    <img class="case-item-img" src="resources/haige.jpg" alt="">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <a href="javascript:void(0)" name="a-contact"></a>
+    <div id="footer" class="row section-item footer">
+
+        <div class="col-xs-12 col-sm-3 m-b-15">
+            <img src="resources/bhj_qr.jpg" alt="" height="100">
+        </div>
+
+        <div class="col-sm-6 text-left m-b-15">
+            <p class="text-white text-blue fa-0875x m-b-5">网站导航</p>
+            <div class="row m-lr-0">
+                <a href="/#a-mission">使命</a>
+                <a href="/#a-scene">场景</a>
+                <a href="/#a-product">产品</a>
+                <a href="/#a-advantage">优势</a>
+                <a href="/#a-case">合作品牌</a>
+                <a href="/#a-contact">联系我们</a>
+            </div>
+            <p class="text-white text-blue fa-0875x m-b-5 m-t-10">联系我们</p>
+            <div class="row m-lr-0">
+                <a href="/about">关于我们</a>
+                <a href="/">市场合作</a>
+                <a href="/">渠道合作</a>
+                <a href="/">媒体合作</a>
+            </div>
+        </div>
+
+        <div class="col-sm-3 text-left contact-item">
+            <p class="text-white fa-0875x">联系方式</p>
+
+            <ul class="list-unstyled fa-0875x" style="color:#818181">
+                <li><i class="fa fa-home text-blue"></i>&nbsp;深圳福田苍松大厦北座601</li>
+                <li><i class="fa fa-phone text-blue"></i>&nbsp;+86 0755-32308786</li>
+                <li><i class="fa fa-envelope text-blue"></i>&nbsp;marketing@eventist.cn</li>
+            </ul>
+        </div>
+    </div>
+
+    <!--手机端导航-->
+    <a href="javascript:void(0)" class="visible-xs xs-menu-btn">
+        <span class="fa fa-navicon" style=""></span>
+    </a>
+    <div id="xs-menu" class="modal-cover">
+        <div class="list-gro#a-missionup xs-menu-list visible-xs ">
+            <a href="/#a-mission" class="list-group-item">使命</a>
+            <a href="/#a-scene" class="list-group-item">场景</a>
+            <a href="/#a-product" class="list-group-item">产品</a>
+            <a href="/#a-advantage" class="list-group-item">优势</a>
+            <a href="/#a-contact" class="list-group-item">联系方式</a>
+            <a href="/about" class="list-group-item">关于我们</a>
+        </div>
+    </div>
+
+
+
+    <script src="resources/jquery.js"></script>
+    <!--<script src="../../public/js/boostrap/bootstrap.min_3.3.7.js"></script>-->
+    <script src="resources/owl.js"></script>
+    <script src="resources/jquery_002.js"></script>
+    <script src="resources/official.js"></script>
+
+</body>
+
+</html>

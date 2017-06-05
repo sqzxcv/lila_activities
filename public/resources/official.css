@@ -1,0 +1,380 @@
+body {
+    font-size:16px;
+    font-weight:300;
+}
+
+a {
+    color:rgba(46,141,239,1);
+}
+
+.section-item {
+    padding-top:30px;
+    padding-bottom:30px;
+}
+
+.title-1 {
+    font-size:1.5em;
+}
+
+.title-2 {
+    margin-bottom: 5px;
+}
+
+.mission .title-2 {
+    max-width: 544px;
+    display: inline-block;
+}
+
+.product-item {
+    background: #f9f9f9;
+    padding-top:30px;
+    padding-bottom:30px;
+    border-radius: 4px;
+}
+
+.product-item-left img {
+    width: 70px;
+    height:auto;
+}
+
+.product-item-left .product-item-left-title {
+    margin-top: 10px;
+    font-size:1.2em;
+}
+
+.product-item-left-title {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.product-item-right .label-primary{
+    display: block;
+    background: none;
+    border: solid 1px #555;
+    color:#555;
+    font-size:0.875em;
+    font-weight:300;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.product-item-left {
+    margin-bottom: 30px;
+    padding-top:0px;
+}
+
+.item-bd-item {
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.item-bd-item-img {
+    width:25%;
+    height:25%;
+}
+
+.item-bd-item-title {
+    font-size:1.2em;
+    text-align: center;
+}
+
+.footer {
+    background: #2B2B2B;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.footer a {
+    margin-right: 15px;
+    font-size:0.9em;
+}
+
+/*.scene-item .item-tabs a{*/
+    /*font-size:0.8em;*/
+/*}*/
+
+.item-tabs label.active {
+    background: #f5f5f5;
+}
+
+.item-tabs label:hover {
+    background: #f5f5f5;
+}
+
+.item-tabs .owl-item {
+    width: 100px !important;
+}
+
+.scene-item .item {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.btn-primary-o {
+    background: none;
+    border:solid 1px #ddd;
+    border-radius: 2px;
+}
+
+.btn-primary-o:hover {
+    border:solid 1px #2e8def;
+}
+
+button,a {
+    outline: none !important;
+}
+
+.item-tabs-body-item-header {
+    background: #f9f9f9;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#header-slider .item {
+    padding-top: 0px !important;
+}
+
+.navbar-transparent {
+    background-color: rgba(0,0,0,0);
+    border-color:rgba(0,0,0,0);
+    /*background-color: rgba(0,0,0,.5);*/
+    /*border-color:rgba(0,0,0,.5);*/
+    border-radius: 0px;
+}
+
+
+/* Begin navbar-transparent */
+.navbar-transparent .navbar-nav li a {
+    color: rgba(255,255,255,1);
+    background: rgba(255,255,255,0);
+    border-bottom: none;
+    padding:20px 15px;
+}
+
+.navbar-transparent .navbar-nav li a:hover{
+    color: rgba(46,141,239,1);
+    background: rgba(255,255,255,0);
+    box-shadow: 0px -2px 0px 0px rgba(46,141,239,1) inset;
+}
+
+.navbar-transparent .navbar-nav li a:active{
+    color: rgba(46,141,239,.7);
+    background: rgba(255,255,255,0);
+    box-shadow: 0px -2px 0px 0px rgba(46,141,239,.7) inset;
+
+}
+
+/* Begin 登录注册按钮 */
+.navbar-transparent .navbar-nav li .action-btn {
+    border:solid 1px rgba(255,255,255,1);
+    padding:5px 15px;
+    margin-top: 15px;
+    border-radius: 4px;
+}
+
+.navbar-transparent .navbar-nav li .action-btn:hover {
+    border:solid 1px rgba(46,141,239,1);
+    box-shadow: none;
+
+}
+
+.navbar-transparent .navbar-nav li .action-btn:active {
+    color: rgba(46,141,239,.7);
+    border: solid 1px rgba(46,141,239,.7);
+    box-shadow: none;
+
+}
+
+.m-l-50 {
+    margin-left: 50px;
+}
+
+.m-r-15 {
+    margin-right: 15px;
+}
+
+/* End 登录注册按钮 */
+
+.navbar-brand-logo-img {
+    height:30px;
+    margin-left: 50px;
+}
+/* End navbar-transparent */
+
+
+/* Begin navbar-white */
+
+.navbar-white {
+    background: #fff;
+    box-shadow: 0px 1px 1px #ddd;
+}
+
+.navbar-white .navbar-nav li a {
+    color: #000;
+    background: rgba(255,255,255,0);
+    border-bottom: none;
+    padding:20px 15px;
+}
+
+.navbar-white .navbar-nav li a:hover{
+    color: rgba(46,141,239,1);
+    background: rgba(255,255,255,0);
+    box-shadow: 0px -2px 0px 0px rgba(46,141,239,1) inset;
+    font-weight:400;
+}
+
+.navbar-white .navbar-nav li a:active{
+    color: rgba(46,141,239,.7);
+    background: rgba(255,255,255,0);
+    box-shadow: 0px -2px 0px 0px rgba(46,141,239,.7) inset;
+}
+
+/* Begin 登录注册按钮 */
+.navbar-white .navbar-nav li .action-btn {
+    border:solid 1px #999;
+    padding:5px 15px;
+    margin-top: 15px;
+    border-radius: 4px;
+}
+
+.navbar-white .navbar-nav li .action-btn:hover {
+    border:solid 1px rgba(46,141,239,1);
+    background: rgba(46,141,239,0);
+    color:rgba(46,141,239,1);
+    font-weight:400;
+    box-shadow: none;
+
+}
+
+.navbar-white .navbar-nav li .action-btn:active {
+    color: rgba(46,141,239,.7);
+    border: solid 1px rgba(46,141,239,.7);
+}
+
+/* End 登录注册按钮 */
+
+/* End navbar-white */
+
+/*.header-slider-item-img {*/
+    /*min-height: 240px;*/
+
+/*}*/
+
+.slider-item-desc {
+    position: absolute;
+    /*top:30%;*/
+    /*left:50%;*/
+    color:#fff;
+    font-size:1.1em;
+}
+
+.fa-0875x {
+    font-size:0.875em;
+}
+
+.version {
+    font-size:0.8em;
+    color:#555;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background: #ddd;
+}
+
+.contact-item li {
+    margin-bottom: 8px;
+}
+
+.m-b-5 {
+    margin-bottom: 5px;
+}
+
+.xs-menu-btn {
+    position: fixed;
+    top:15px;
+    right:15px;
+    z-index:100;
+    font-size: 1.5em;
+    padding:10px 15px;
+    background: rgba(0,0,0,.3);
+    color: #ddd;
+    border-radius: 4px;
+}
+
+.xs-menu-btn:active {
+    background: rgba(0,0,0,.7);
+    color: #fff;
+
+}
+
+.modal-cover {
+    position: fixed;
+    background: rgba(0,0,0,.5);
+    top:0px;
+    bottom:0px;
+    left:0px;
+    right:0px;
+    z-index: 100000;
+    display: none;
+}
+
+.xs-menu-list,.list-group-item {
+    border-radius: 0px;
+    background: rgba(255,255,255,.7);
+}
+
+.p-30 {
+    padding:30px;
+}
+
+.aboutus-wrap {
+    margin-top: 30px;
+}
+
+.btn-default-blue {
+    background: #fff;
+    border:solid 1px #ddd;
+    color:#000;
+}
+
+.btn-default-blue:hover,.btn-default-blue:active {
+    background: #fff;
+    border:solid 1px #2e8def;
+    color:#2e8def;
+}
+
+.version a{
+    color:#555;
+}
+
+/* 小屏幕（平板，大于等于 ） */
+@media (min-width: 768px) {
+    .product-item-left{
+        padding-top:15px;
+
+    }
+
+    .item-tabs-body-item-header {
+        font-size:1.4em;
+    }
+
+    .aboutus-wrap {
+        margin-top: 80px;
+    }
+}
+
+
+/* 中等屏幕（桌面显示器，大于等于 992px） */
+@media (min-width: 992px) {
+
+}
+
+/* 大屏幕（大桌面显示器，大于等于 1200px） */
+@media (min-width: 1200px) {
+
+}
