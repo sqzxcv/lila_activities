@@ -13,7 +13,7 @@ module.exports = {
       script: "./bin/www",
       out_file: "/var/log/lila_activities/app.log",
       error_file: "/var/log/lila_activities/err.log",
-      port: "80",
+      port: "3080",
       env: {
         COMMON_VARIABLE: 'true'
       },
