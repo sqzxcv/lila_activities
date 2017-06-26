@@ -7,7 +7,7 @@
     <title>办会家官网</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
     <meta name="author" content="办会家 Eventist.cn">
-    <meta name="description" content="办会家，专注为会议主办方做最好用的管理系统.">
+    <meta name="description" content="黎拉策划，专注为会议主办方做最好用的管理系统.">
     <link rel="icon" href="images/favicon.ico">
     <link rel="stylesheet" href="resources/bootstrap.css">
     <link rel="stylesheet" href="resources/font-awesome.css">
@@ -462,9 +462,9 @@
             <p class="text-white fa-0875x">联系方式</p>
 
             <ul class="list-unstyled fa-0875x" style="color:#818181">
-                <li><i class="fa fa-home text-blue"></i>&nbsp;深圳福田苍松大厦北座601</li>
-                <li><i class="fa fa-phone text-blue"></i>&nbsp;+86 0755-32308786</li>
-                <li><i class="fa fa-envelope text-blue"></i>&nbsp;marketing@eventist.cn</li>
+                <!--<li><i class="fa fa-home text-blue"></i>&nbsp;深圳福田苍松大厦北座601</li> --f
+                <li><i class="fa fa-phone text-blue"></i>&nbsp;+86 18317020683</li>
+                <li><i class="fa fa-envelope text-blue"></i>&nbsp;Yvonne.xia@lila-info.com</li>
             </ul>
         </div>
     </div>
