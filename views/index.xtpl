@@ -32,9 +32,9 @@
 
             <div class="collapse navbar-collapse">
                 <ul class="nav navbar-nav navbar-right">
-                    <li><a href="/#a-mission">使命</a></li>
-                    <li><a href="/#a-scene">场景</a></li>
-                    <li><a href="/#a-product">产品</a></li>
+                    <li><a href="/#a-mission">关于我们</a></li>
+                    <li><a href="/#a-scene">项目案例</a></li>
+                    <li><a href="/#a-product">服务内容</a></li>
                     <li><a href="/#a-advantage">优势</a></li>
                     <li><a href="/#a-case">合作品牌</a></li>
                     <li><a href="/#a-contact">联系我们</a></li>
@@ -53,9 +53,9 @@
 
             <div class="collapse navbar-collapse">
                 <ul class="nav navbar-nav navbar-right">
-                    <li><a href="/#a-mission">使命</a></li>
-                    <li><a href="/#a-scene">场景</a></li>
-                    <li><a href="/#a-product">产品</a></li>
+                    <li><a href="/#a-mission">关于我们</a></li>
+                    <li><a href="/#a-scene">项目案例</a></li>
+                    <li><a href="/#a-product">服务内容</a></li>
                     <li><a href="/#a-advantage">优势</a></li>
                     <li><a href="/#a-case">合作品牌</a></li>
                     <li><a href="/#a-contact">联系我们</a></li>
@@ -69,12 +69,14 @@
         <div class="col-sm-10 col-sm-offset-1">
             <div class="item-hd text-center">
                 <p class="title-1 m-b-30 text-blue">
-                    <span class="border_b_blue">使命</span>
+                    <span class="border_b_blue">关于我们</span>
                 </p>
             </div>
 
             <div class="item-bd p-t-30 p-b-30" style="background: #f9f9f9;">
-                <p class="text-center title-2">办会家努力将技术融入会议场景，让会议更有价值。</p>
+                <p class="title-2 about">上海黎拉信息科技有限公司，专注于活动策划与执行服务。在企业内外部会议、产品发布会、内部年会、经销商大会、展会同期活动等方面为企业参展期间组织活动提供最佳策划方案及执行服务；
+      <br/><br/>黎拉策划拥有专业的策划团队／设计/技术团队／运营团队为客户的活动从想法到实现提供可靠保障。        
+      最佳策划方案+创新设计+全程电子管理+高效执行团队为您的活动成功举办保驾护航。</p>
             </div>
         </div>
     </div>
@@ -84,7 +86,7 @@
         <div class="col-sm-10 col-sm-offset-1">
             <div class="item-hd row text-center m-lr-0">
                 <p class="title-1 m-b-30 text-blue">
-                    <span class="border_b_blue">常用场景</span>
+                    <span class="border_b_blue">项目案例</span>
                 </p>
             </div>
 
@@ -145,77 +147,60 @@
         <div class="col-sm-8 col-sm-offset-2">
             <div class="item-hd row text-center m-lr-0">
                 <p class="title-1 m-b-30 text-blue">
-                    <span class="border_b_blue">产品功能</span>
+                    <span class="border_b_blue">服务内容</span>
                 </p>
             </div>
             <div class="row item-bd m-lr-0">
                 <div class="row product-item m-b-15 p-b-15">
                     <div class="col-sm-4 product-item-left text-center">
                         <img src="resources/e_invite.png" alt="">
-                        <p class="hidden-xs product-item-left-title"><span class="">会邀约</span></p>
-                        <span class="hidden-sm hidden-md hidden-lg m-l-15 product-item-left-title ">会邀约</span>
+                        <p class="hidden-xs product-item-left-title"><span class="">活动筹备</span></p>
+                        <span class="hidden-sm hidden-md hidden-lg m-l-15 product-item-left-title ">活动筹备</span>
                     </div>
                     <div class="col-sm-8 product-item-right">
                         <div class="row">
                             <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 m-b-10">
                                 <label class="label label-primary">
-                                    <span class="fa fa-tv"></span>&nbsp;大会网站
+                                    <span class="fa fa-tv"></span>&nbsp;酒店预订
                                 </label>
                             </div>
 
                             <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 m-b-10">
                                 <label class="label label-primary">
-                                    <span class="fa fa-mobile-phone"></span>&nbsp;移动网站
+                                    <span class="fa fa-mobile-phone"></span>&nbsp;车辆租赁
                                 </label>
                             </div>
 
                             <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 m-b-10">
                                 <label class="label label-primary">
-                                    <span class="fa fa-html5"></span>&nbsp;H5网站
+                                    <span class="fa fa-html5"></span>&nbsp;活动KV设计
                                 </label>
                             </div>
 
                             <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 m-b-10">
                                 <label class="label label-primary">
-                                    <span class="fa fa-wechat"></span>&nbsp;微站
+                                    <span class="fa fa-wechat"></span>&nbsp;邀请函制作
                                 </label>
                             </div>
 
                             <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 m-b-10">
                                 <label class="label label-primary">
-                                    <span class="fa fa-apple"></span>&nbsp;会议APP
+                                    <span class="fa fa-apple"></span>&nbsp;资料印刷
                                 </label>
                             </div>
 
                             <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 m-b-10">
                                 <label class="label label-primary">
-                                    <span class="fa fa-wechat"></span>&nbsp;微信公号
+                                    <span class="fa fa-wechat"></span>&nbsp;网红资源
                                 </label>
                             </div>
 
                             <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 m-b-10">
                                 <label class="label label-primary">
-                                    <span class="fa fa-file-text"></span>&nbsp;微邀请函
+                                    <span class="fa fa-file-text"></span>&nbsp;媒体资源
                                 </label>
                             </div>
 
-                            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 col-lg-3 m-b-10">
-                                <label class="label label-primary">
-                                    <span class="fa fa-commenting"></span>&nbsp;智能通知
-                                </label>
-                            </div>
-
-                            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 m-b-10">
-                                <label class="label label-primary">
-                                    <span class="fa fa-user-circle"></span>&nbsp;智能客服
-                                </label>
-                            </div>
-
-                            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 m-b-10">
-                                <label class="label label-primary">
-                                    <span class="fa fa-ticket"></span>&nbsp;售票管理
-                                </label>
-                            </div>
                         </div>
                     </div>
                 </div>
@@ -223,68 +208,44 @@
                 <div class="row product-item m-b-15 p-b-15">
                     <div class="col-sm-4 product-item-left text-center p-t-15">
                         <img src="resources/e_checkin.png" alt="">
-                        <p class="hidden-xs product-item-left-title"><span class="">会签到</span></p>
-                        <span class="hidden-sm hidden-md hidden-lg m-l-15 product-item-left-title ">会签到</span>
+                        <p class="hidden-xs product-item-left-title"><span class="">现场服务</span></p>
+                        <span class="hidden-sm hidden-md hidden-lg m-l-15 product-item-left-title ">现场服务</span>
                     </div>
                     <div class="col-sm-8 product-item-right">
                         <div class="row">
                             <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 m-b-10">
                                 <label class="label label-primary">
-                                    <span class="fa fa-qrcode"></span>&nbsp;扫码签到
+                                    <span class="fa fa-qrcode"></span>&nbsp;场地布展
                                 </label>
                             </div>
 
                             <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 m-b-10">
                                 <label class="label label-primary">
-                                    <span class="fa fa-wechat"></span>&nbsp;微信签到
+                                    <span class="fa fa-wechat"></span>&nbsp;AV视听设备
                                 </label>
                             </div>
 
                             <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 m-b-10">
                                 <label class="label label-primary">
-                                    <span class="fa fa-tablet"></span>&nbsp;App签到
+                                    <span class="fa fa-tablet"></span>&nbsp;灯光秀
                                 </label>
                             </div>
 
                             <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 m-b-10">
                                 <label class="label label-primary">
-                                    <span class="fa fa-id-card"></span>&nbsp;身份证
+                                    <span class="fa fa-id-card"></span>&nbsp;餐饮服务
                                 </label>
                             </div>
 
                             <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 m-b-10">
                                 <label class="label label-primary">
-                                    <span class="fa fa-credit-card"></span>&nbsp;RFID
+                                    <span class="fa fa-credit-card"></span>&nbsp;演艺节目
                                 </label>
                             </div>
 
                             <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 m-b-10">
                                 <label class="label label-primary">
-                                    <span class="fa fa-bluetooth"></span>&nbsp;ibeacon
-                                </label>
-                            </div>
-
-                            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 m-b-10">
-                                <label class="label label-primary">
-                                    <span class="fa fa-road"></span>&nbsp;闸机签到
-                                </label>
-                            </div>
-
-                            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 m-b-10">
-                                <label class="label label-primary">
-                                    <span class="fa fa-male"></span>&nbsp;自助签到
-                                </label>
-                            </div>
-
-                            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 col-lg-3 m-b-10">
-                                <label class="label label-primary">
-                                    <span class="fa fa-id-card-o"></span>&nbsp;现场制证
-                                </label>
-                            </div>
-
-                            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 m-b-10">
-                                <label class="label label-primary">
-                                    <span class="fa fa-user-circle-o"></span>&nbsp;面部识别
+                                    <span class="fa fa-bluetooth"></span>&nbsp;人员服务
                                 </label>
                             </div>
 
@@ -295,70 +256,83 @@
                 <div class="row product-item m-b-15 p-b-15">
                     <div class="col-sm-4 product-item-left text-center">
                         <img src="resources/e_interactive.png" alt="">
-                        <p class="hidden-xs product-item-left-title"><span class="">会互动</span></p>
-                        <span class="hidden-sm hidden-md hidden-lg m-l-15 product-item-left-title ">会互动</span>
+                        <p class="hidden-xs product-item-left-title"><span class="">电子系统</span></p>
+                        <span class="hidden-sm hidden-md hidden-lg m-l-15 product-item-left-title ">电子系统</span>
                     </div>
                     <div class="col-sm-8 product-item-right">
                         <div class="row">
                             <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 m-b-10">
                                 <label class="label label-primary">
-                                    <span class="fa fa-qrcode"></span>&nbsp;3D 签到
+                                    <span class="fa fa-qrcode"></span>&nbsp;H5定制
                                 </label>
                             </div>
 
                             <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 m-b-10">
                                 <label class="label label-primary">
-                                    <span class="fa fa-gift"></span>&nbsp;3D 抽奖
+                                    <span class="fa fa-gift"></span>&nbsp;公众号制作
                                 </label>
                             </div>
 
                             <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 m-b-10">
                                 <label class="label label-primary">
-                                    <span class="fa fa-tablet"></span>&nbsp;3D 投票
+                                    <span class="fa fa-tablet"></span>&nbsp;朋友圈广告
                                 </label>
                             </div>
 
                             <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 m-b-10">
                                 <label class="label label-primary">
-                                    <span class="fa fa-image"></span>&nbsp;3D 图文
+                                    <span class="fa fa-image"></span>&nbsp;报名系统
                                 </label>
                             </div>
 
                             <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 m-b-10">
                                 <label class="label label-primary">
-                                    <span class="fa fa-grav"></span>&nbsp;摇一摇
+                                    <span class="fa fa-grav"></span>&nbsp;现场签到
                                 </label>
                             </div>
 
                             <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 m-b-10">
                                 <label class="label label-primary">
-                                    <span class="fa fa-yen"></span>&nbsp;打赏
+                                    <span class="fa fa-yen"></span>&nbsp;制证服务
                                 </label>
                             </div>
 
                             <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 m-b-10">
                                 <label class="label label-primary">
-                                    <span class="fa fa-wechat"></span>&nbsp;现场红包
+                                    <span class="fa fa-wechat"></span>&nbsp;现场互动
                                 </label>
                             </div>
 
                             <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 col-lg-3 m-b-10">
                                 <label class="label label-primary">
-                                    <span class="fa fa-adjust"></span>&nbsp;3D 开幕
+                                    <span class="fa fa-adjust"></span>&nbsp;数据统计
+                                </label>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row product-item m-b-15 p-b-15">
+                    <div class="col-sm-4 product-item-left text-center">
+                        <img src="resources/e_interactive.png" alt="">
+                        <p class="hidden-xs product-item-left-title"><span class="">活动展示设计</span></p>
+                        <span class="hidden-sm hidden-md hidden-lg m-l-15 product-item-left-title ">活动展示设计</span>
+                    </div>
+                    <div class="col-sm-8 product-item-right">
+                        <div class="row">
+                            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 m-b-10">
+                                <label class="label label-primary">
+                                    <span class="fa fa-qrcode"></span>&nbsp;平面设计
                                 </label>
                             </div>
 
                             <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 m-b-10">
                                 <label class="label label-primary">
-                                    <span class="fa fa-pencil-square-o"></span>&nbsp;数字签约
+                                    <span class="fa fa-gift"></span>&nbsp;3D 设计
                                 </label>
                             </div>
 
-                            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 m-b-10">
-                                <label class="label label-primary">
-                                    <span class="fa fa-heartbeat"></span>&nbsp;慈善捐赠
-                                </label>
-                            </div>
                         </div>
                     </div>
                 </div>
@@ -468,12 +442,12 @@
         <div class="col-sm-6 text-left m-b-15">
             <p class="text-white text-blue fa-0875x m-b-5">网站导航</p>
             <div class="row m-lr-0">
-                <a href="/#a-mission">使命</a>
-                <a href="/#a-scene">场景</a>
-                <a href="/#a-product">产品</a>
-                <a href="/#a-advantage">优势</a>
-                <a href="/#a-case">合作品牌</a>
-                <a href="/#a-contact">联系我们</a>
+                <li><a href="/#a-mission">关于我们</a></li>
+                <li><a href="/#a-scene">项目案例</a></li>
+                <li><a href="/#a-product">服务内容</a></li>
+                <li><a href="/#a-advantage">优势</a></li>
+                <li><a href="/#a-case">合作品牌</a></li>
+                <li><a href="/#a-contact">联系我们</a></li
             </div>
             <p class="text-white text-blue fa-0875x m-b-5 m-t-10">联系我们</p>
             <div class="row m-lr-0">
@@ -501,12 +475,12 @@
     </a>
     <div id="xs-menu" class="modal-cover">
         <div class="list-gro#a-missionup xs-menu-list visible-xs ">
-            <a href="/#a-mission" class="list-group-item">使命</a>
-            <a href="/#a-scene" class="list-group-item">场景</a>
-            <a href="/#a-product" class="list-group-item">产品</a>
+            <a href="/#a-scene" class="list-group-item">项目案例</a>
+            <a href="/#a-product" class="list-group-item">服务内容</a>
             <a href="/#a-advantage" class="list-group-item">优势</a>
             <a href="/#a-contact" class="list-group-item">联系方式</a>
-            <a href="/about" class="list-group-item">关于我们</a>
+            <a href="/#a-mission" class="list-group-item">关于我们</a>
+            <!--<a href="/about" class="list-group-item">关于我们</a>-->
         </div>
     </div>
 

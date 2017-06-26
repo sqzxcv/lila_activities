@@ -20,6 +20,12 @@ a {
     margin-bottom: 5px;
 }
 
+.about {
+    margin-left: 5px;
+    margin-right: 5px;
+    text-align: left;
+}
+
 .mission .title-2 {
     max-width: 544px;
     display: inline-block;
@@ -199,7 +205,7 @@ button,a {
 /* End 登录注册按钮 */
 
 .navbar-brand-logo-img {
-    height:30px;
+    height:40px;
     margin-left: 50px;
 }
 /* End navbar-transparent */
