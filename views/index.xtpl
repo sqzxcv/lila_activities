@@ -434,20 +434,20 @@
 
     <a href="javascript:void(0)" name="a-contact"></a>
     <div id="footer" class="row section-item footer">
-
+        <!--
         <div class="col-xs-12 col-sm-3 m-b-15">
             <img src="resources/bhj_qr.jpg" alt="" height="100">
         </div>
-
+        -->
         <div class="col-sm-6 text-left m-b-15">
             <p class="text-white text-blue fa-0875x m-b-5">网站导航</p>
             <div class="row m-lr-0">
-                <li><a href="/#a-mission">关于我们</a></li>
-                <li><a href="/#a-scene">项目案例</a></li>
-                <li><a href="/#a-product">服务内容</a></li>
-                <li><a href="/#a-advantage">优势</a></li>
-                <li><a href="/#a-case">合作品牌</a></li>
-                <li><a href="/#a-contact">联系我们</a></li
+                <a href="/#a-mission">关于我们</a>
+                <a href="/#a-scene">项目案例</a>
+                <a href="/#a-product">服务内容</a>
+                <a href="/#a-advantage">优势</a>
+                <a href="/#a-case">合作品牌</a>
+                <a href="/#a-contact">联系我们</a>
             </div>
             <p class="text-white text-blue fa-0875x m-b-5 m-t-10">联系我们</p>
             <div class="row m-lr-0">
@@ -462,7 +462,7 @@
             <p class="text-white fa-0875x">联系方式</p>
 
             <ul class="list-unstyled fa-0875x" style="color:#818181">
-                <!--<li><i class="fa fa-home text-blue"></i>&nbsp;深圳福田苍松大厦北座601</li> --f
+                <!--<li><i class="fa fa-home text-blue"></i>&nbsp;深圳福田苍松大厦北座601</li> -->
                 <li><i class="fa fa-phone text-blue"></i>&nbsp;+86 18317020683</li>
                 <li><i class="fa fa-envelope text-blue"></i>&nbsp;Yvonne.xia@lila-info.com</li>
             </ul>
